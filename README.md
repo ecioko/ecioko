@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **GNOME**
+- 💬 Ask me about **Minecraft Servers**
 
 - 📫 How to reach me **ecioko1@gmail.com**
 
