@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Vixema Studios](https://vixemastudios.com)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Lua**
 
 - 💬 Ask me about **Minecraft Servers**
 
