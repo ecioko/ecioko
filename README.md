@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java** and **Lua**
 
-- 💬 Ask me about **Minecraft Servers**
+- 💬 Ask me about **Everything**
 
 - 📫 How to reach me **ecioko1@gmail.com**
 
