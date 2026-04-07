@@ -11,5 +11,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ecioko&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[test](https://assets1.ignimgs.com/2017/10/10/banner-1507645496223.png)
+<img src="https://assets1.ignimgs.com/2017/10/10/banner-1507645496223.png" />
 
