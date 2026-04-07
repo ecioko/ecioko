@@ -20,7 +20,7 @@
 
 </td>
 
-<td width="40%">
+<td width="70%">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdieG8zZmtqamM1ZThxZHZwZnZ2b2FhYmlrZWN6d3FlYWFrY2hrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ec2SalC340GZCkYJnF/giphy.gif" width="100%" />
 </td>
 </tr>
