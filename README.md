@@ -21,7 +21,7 @@
 </td>
 
 <td width="40%">
-  <img src="https://assets1.ignimgs.com/2017/10/10/banner-1507645496223.png" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdieG8zZmtqamM1ZThxZHZwZnZ2b2FhYmlrZWN6d3FlYWFrY2hrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ec2SalC340GZCkYJnF/giphy.gif" width="100%" />
 </td>
 </tr>
 </table>
