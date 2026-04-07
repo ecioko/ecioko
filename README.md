@@ -1,5 +1,5 @@
 # 💫 I'm Ecioko:
- 🔭 I’m currently working on [----](https://github.com/ecioko)<br><br>- 🌱 I’m currently learning **Java** and **Lua**<br><br>- 💬 Ask me about **Everything**<br><br>- 📫 How to reach me **ecioko1@gmail.com**
+ 🔭 I’m currently working on [----](https://github.com/ecioko) <img src="https://assets1.ignimgs.com/2017/10/10/banner-1507645496223.png" width="400"/> <br><br>- 🌱 I’m currently learning **Java** and **Lua**<br><br>- 💬 Ask me about **Everything**<br><br>- 📫 How to reach me **ecioko1@gmail.com**
 
 
 ## 🌐 Socials:
