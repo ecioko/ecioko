@@ -1,4 +1,4 @@
-<h1 align="center">💫 I'm Ecioko</h1>
+<h1 align="center">👋 I'm Ecioko</h1>
 
 <p align="center">
   <i>Building things, breaking limits.</i>
@@ -10,9 +10,9 @@
 <tr>
 <td width="60%">
 
-🔭 I’m currently working on [----](https://github.com/ecioko)  
+🔭 I’m currently working on [New Projects](https://github.com/ecioko)  
 
-🌱 I’m currently learning **Java** and **Lua**  
+🌱 I’m currently learning **Java** and **Ardunio**  
 
 💬 Ask me about **Everything**  
 
